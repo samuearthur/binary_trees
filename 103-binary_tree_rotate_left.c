@@ -1,5 +1,3 @@
-nes (27 sloc)  573 Bytes
-
 #include "binary_trees.h"
 
 /**
